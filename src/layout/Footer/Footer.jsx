@@ -6,7 +6,7 @@ export const Footer = () => {
     return (
         <footer className='pt-5 px-3'>
             <div className='container'>
-                <div className='row gy-4 g-md-3 border-bottom pb-5 justify-content-center'>
+                <div className='row gy-4 g-md-3 border-bottom pb-5 justify-content-center' >
                     <div className='col-6 col-md-3'>
                         <p className='mb-2 lh-lg ls-1'>Company</p>
                         <ul className='list-unstyled text-1100'>
