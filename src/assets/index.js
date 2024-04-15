@@ -1,0 +1,5 @@
+export { default as r_1 } from './imgs/reviewer_1.webp'
+export { default as r_2 } from './imgs/reviewer_2.webp'
+export { default as r_3 } from './imgs/reviewer_3.webp'
+export { default as kakashi } from './imgs/kakashi.webp'
+export { default as obito } from './imgs/obito.webp'

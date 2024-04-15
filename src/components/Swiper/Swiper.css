@@ -1,0 +1,11 @@
+.card-image {
+    width: 5.6rem;
+    height: 5.6rem;
+    border: 2px solid #979797;
+}
+@media (min-width: 992px) {
+    .card-image {
+        width: 6.938rem;
+        height: 6.938rem;
+    }
+}
