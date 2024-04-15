@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.12589784.css",
-    "main.js": "/static/js/main.513e25a2.js",
-    "static/js/453.b1ba5f5e.chunk.js": "/static/js/453.b1ba5f5e.chunk.js",
-    "static/media/fav.png": "/static/media/fav.748aa893fe4a81280b60.png",
-    "static/media/kakashi.webp": "/static/media/kakashi.954520019c61d90d7e22.webp",
-    "static/media/obito.webp": "/static/media/obito.d8061c718b49ed4bf7d9.webp",
-    "static/media/portfoilio.webp": "/static/media/portfoilio.5ed6b6d906a955ed2874.webp",
-    "static/media/bg1.webp": "/static/media/bg1.8d8025a7b924d04e509a.webp",
-    "static/media/reviewer_1.webp": "/static/media/reviewer_1.e0be19eed6cb148f3133.webp",
-    "static/media/reviewer_2.webp": "/static/media/reviewer_2.d108c89b573193c1bddf.webp",
-    "static/media/reviewer_3.webp": "/static/media/reviewer_3.b5c509bcd2bba39392b3.webp",
-    "static/media/App_Store.webp": "/static/media/App_Store.6bc272b686b075abbf3b.webp",
-    "static/media/Play_Store.webp": "/static/media/Play_Store.64bc444b497d3c792b39.webp",
-    "static/media/Dots.webp": "/static/media/Dots.ade6ec22554e2d0880f3.webp",
-    "index.html": "/index.html",
-    "main.12589784.css.map": "/static/css/main.12589784.css.map",
-    "main.513e25a2.js.map": "/static/js/main.513e25a2.js.map",
-    "453.b1ba5f5e.chunk.js.map": "/static/js/453.b1ba5f5e.chunk.js.map"
+    "main.css": "/pps/static/css/main.67b88a82.css",
+    "main.js": "/pps/static/js/main.1379c598.js",
+    "static/js/453.b1ba5f5e.chunk.js": "/pps/static/js/453.b1ba5f5e.chunk.js",
+    "static/media/fav.png": "/pps/static/media/fav.748aa893fe4a81280b60.png",
+    "static/media/kakashi.webp": "/pps/static/media/kakashi.954520019c61d90d7e22.webp",
+    "static/media/obito.webp": "/pps/static/media/obito.d8061c718b49ed4bf7d9.webp",
+    "static/media/portfoilio.webp": "/pps/static/media/portfoilio.5ed6b6d906a955ed2874.webp",
+    "static/media/bg1.webp": "/pps/static/media/bg1.8d8025a7b924d04e509a.webp",
+    "static/media/reviewer_1.webp": "/pps/static/media/reviewer_1.e0be19eed6cb148f3133.webp",
+    "static/media/reviewer_2.webp": "/pps/static/media/reviewer_2.d108c89b573193c1bddf.webp",
+    "static/media/reviewer_3.webp": "/pps/static/media/reviewer_3.b5c509bcd2bba39392b3.webp",
+    "static/media/App_Store.webp": "/pps/static/media/App_Store.6bc272b686b075abbf3b.webp",
+    "static/media/Play_Store.webp": "/pps/static/media/Play_Store.64bc444b497d3c792b39.webp",
+    "static/media/Dots.webp": "/pps/static/media/Dots.ade6ec22554e2d0880f3.webp",
+    "index.html": "/pps/index.html",
+    "main.67b88a82.css.map": "/pps/static/css/main.67b88a82.css.map",
+    "main.1379c598.js.map": "/pps/static/js/main.1379c598.js.map",
+    "453.b1ba5f5e.chunk.js.map": "/pps/static/js/453.b1ba5f5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12589784.css",
-    "static/js/main.513e25a2.js"
+    "static/css/main.67b88a82.css",
+    "static/js/main.1379c598.js"
   ]
 }
